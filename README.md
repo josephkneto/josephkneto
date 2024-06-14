@@ -8,7 +8,7 @@
 
 ### Social: 
 
-<p align="center">
+<p align="left">
 <br>
 <a href="https://www.linkedin.com/in/joseph-kallas-neto-6a69a9214/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:josephkn@al.insper.edu.br"><img src="https://img.shields.io/badge/outlook%23D14836.svg?&style=for-the-badge&logo=outlook&logoColor=white" alt="Outlook"/></a>&nbsp;
