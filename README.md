@@ -10,6 +10,8 @@
 <p align="left">
 <br>
 I am a computer engineering student at Insper with a strong proficiency in various programming languages and tools. My diverse skill set allows me to effectively contribute to a wide range of projects and domains. I'm passionate about technology and continuously strive to expand my knowledge and capabilities in the field.
+<br>
+<br>
 </p>
 
 ### Social: 
