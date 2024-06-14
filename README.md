@@ -43,8 +43,6 @@ I am a computer engineering student at Insper with a strong proficiency in vario
 <p>And others</p>
 <br>
 <br>
-<br>
-<br>
 
 ### :zap: Github Stats
 
