@@ -44,9 +44,9 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.josephkneto.vercel.app/api?username=josephkneto&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Joseph's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.josephkneto.vercel.app/api/top-langs/?username=josephkneto&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Joseph's Top Languages">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=josephkneto&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Joseph's Github Stats" width="60%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephkneto&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Joseph's Top Languages">
 
 
 
