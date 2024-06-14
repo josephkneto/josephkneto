@@ -8,7 +8,6 @@
 
 ### About me:
 <p align="left">
-<br>
 I am a computer engineering student at Insper with a strong proficiency in various programming languages and tools. My diverse skill set allows me to effectively contribute to a wide range of projects and domains. I'm passionate about technology and continuously strive to expand my knowledge and capabilities in the field.
 <br>
 <br>
@@ -17,7 +16,6 @@ I am a computer engineering student at Insper with a strong proficiency in vario
 ### Social: 
 
 <p align="left">
-<br>
 <a href="https://www.linkedin.com/in/joseph-kallas-neto-6a69a9214/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:josephkn@al.insper.edu.br"><img src="https://img.shields.io/badge/outlook-%230077B5.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>&nbsp;
 </p>
